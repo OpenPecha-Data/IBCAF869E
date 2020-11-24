@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG01590
   title: སེངྒེ་སྒྲའི་སྒྲུབ་ཐབས་རྗེས་སྣང་དང་བཅས་པ
-  volume: ''
+  volume:
+    4b466b5e26404b9f8a69b376427052ce:
+      image_group_id: I00KG02834
+      title: Volume 1 of seng ge sgra'i sgrub thabs rjes snang dang bcas pa
+      volume_number: 1
+      total_pages: 8
   author: ''
+ebook_metadata:
+  title: སེངྒེ་སྒྲའི་སྒྲུབ་ཐབས་རྗེས་སྣང་དང་བཅས་པ
+  author: ''
+  sku: P008124
+  cover: cover.jpg
+  layers:
+  - pagination
