@@ -3,51 +3,44 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   9fdbc26310964a8e8f724d54cccbbf7d:
-    page_index: 1a
-    page_info: null
-    reference: I00KG028340001
+    imgnum: 1
+    reference: I00KG028340001.tif
     span:
       start: 0
       end: 843
   e1adccda3b854da28d25c29df2b0a85a:
-    page_index: 2a
-    page_info: null
-    reference: I00KG028340003
+    imgnum: 3
+    reference: I00KG028340003.tif
     span:
       start: 848
       end: 947
   416f3104927646459e7b14f52d3d5888:
-    page_index: 2b
-    page_info: null
-    reference: I00KG028340004
+    imgnum: 4
+    reference: I00KG028340004.tif
     span:
       start: 952
       end: 2128
   f36406de1dd64c48b5138f5af15305a7:
-    page_index: 3a
-    page_info: null
-    reference: I00KG028340005
+    imgnum: 5
+    reference: I00KG028340005.tif
     span:
       start: 2133
       end: 3364
   eb7065c1cb5f40b581788860d84d57cc:
-    page_index: 3b
-    page_info: null
-    reference: I00KG028340006
+    imgnum: 6
+    reference: I00KG028340006.tif
     span:
       start: 3369
       end: 4846
   0e310cf7c63c417897cb3e9413164254:
-    page_index: 4a
-    page_info: null
-    reference: I00KG028340007
+    imgnum: 7
+    reference: I00KG028340007.tif
     span:
       start: 4851
       end: 4909
   83bc951680bf4f57872199a3bc0c3e0a:
-    page_index: 4b
-    page_info: null
-    reference: I00KG028340008
+    imgnum: 8
+    reference: I00KG028340008.tif
     span:
       start: 4914
       end: 5628
